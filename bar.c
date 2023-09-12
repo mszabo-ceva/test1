@@ -6,6 +6,6 @@ void main(){
     int l;
 
     for(i=0;i<10;i++)
-        printf("hello original bar.c\n");
+        printf("hello sbox1 bar.c\n");
 
 }
